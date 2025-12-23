@@ -1,0 +1,1351 @@
+{
+  "macros": [
+    {
+      "id": 1,
+      "name": "Contexto emergente y prácticas escolares",
+      "color": "blue"
+    },
+    {
+      "id": 2,
+      "name": "Códigos Emergentes",
+      "color": "purple"
+    },
+    {
+      "id": 3,
+      "name": "Experiencia en el aula",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "name": "Festival de Cine",
+      "color": "red"
+    },
+    {
+      "id": 5,
+      "name": "Integración curricular",
+      "color": "orange"
+    },
+    {
+      "id": 6,
+      "name": "Talleres interculturales Docentes",
+      "color": "teal"
+    },
+    {
+      "id": 7,
+      "name": "Uso del Cuadernillo",
+      "color": "indigo"
+    }
+  ],
+  "codes": [
+    {
+      "id": 1,
+      "macro_id": 4,
+      "name": "Aprendizajes y reflexiones estudiantiles",
+      "key": "aprendizajes_y_reflexiones_estudiantiles"
+    },
+    {
+      "id": 2,
+      "macro_id": 4,
+      "name": "Coherencia pedagógica del festival",
+      "key": "coherencia_pedagogica_del_festival"
+    },
+    {
+      "id": 3,
+      "macro_id": 4,
+      "name": "Condiciones logísticas",
+      "key": "condiciones_logisticas"
+    },
+    {
+      "id": 4,
+      "macro_id": 4,
+      "name": "Evaluación y aprendizajes emergentes",
+      "key": "evaluacion_y_aprendizajes_emergentes"
+    },
+    {
+      "id": 5,
+      "macro_id": 4,
+      "name": "Mediación docente y uso del cuadernillo",
+      "key": "mediacion_docente_y_uso_del_cuadernillo"
+    },
+    {
+      "id": 6,
+      "macro_id": 4,
+      "name": "Participación de actores educativos",
+      "key": "participacion_de_actores_educativos"
+    },
+    {
+      "id": 7,
+      "macro_id": 4,
+      "name": "Pertinencia cultural y etaria de la selección",
+      "key": "pertinencia_cultural_y_etaria_de_la_seleccion"
+    },
+    {
+      "id": 8,
+      "macro_id": 4,
+      "name": "Rol pedagógico de las películas",
+      "key": "rol_pedagogico_de_las_peliculas"
+    },
+    {
+      "id": 9,
+      "macro_id": 6,
+      "name": "Cambios pedagógicos y uso del cine",
+      "key": "cambios_pedagogicos_y_uso_del_cine"
+    },
+    {
+      "id": 10,
+      "macro_id": 6,
+      "name": "Coherencia pedagógica del taller",
+      "key": "coherencia_pedagogica_del_taller"
+    },
+    {
+      "id": 11,
+      "macro_id": 6,
+      "name": "Condiciones de implementación",
+      "key": "condiciones_de_implementacion"
+    },
+    {
+      "id": 12,
+      "macro_id": 6,
+      "name": "Pertinencia contextual del taller",
+      "key": "pertinencia_contextual_del_taller"
+    },
+    {
+      "id": 13,
+      "macro_id": 6,
+      "name": "Proyección e institucionalización",
+      "key": "proyeccion_e_institucionalizacion"
+    },
+    {
+      "id": 14,
+      "macro_id": 1,
+      "name": "Cine como dispositivo formativo",
+      "key": "cine_como_dispositivo_formativo"
+    },
+    {
+      "id": 15,
+      "macro_id": 1,
+      "name": "Comunidad escolar y autogestión",
+      "key": "comunidad_escolar_y_autogestion"
+    },
+    {
+      "id": 16,
+      "macro_id": 1,
+      "name": "Docentes - disposiciones y tensiones",
+      "key": "docentes_disposiciones_y_tensiones"
+    },
+    {
+      "id": 17,
+      "macro_id": 1,
+      "name": "Estudiantes - agencia y aprendizajes",
+      "key": "estudiantes_agencia_y_aprendizajes"
+    },
+    {
+      "id": 18,
+      "macro_id": 1,
+      "name": "Evaluación y proyección del proyecto",
+      "key": "evaluacion_y_proyeccion_del_proyecto"
+    },
+    {
+      "id": 19,
+      "macro_id": 1,
+      "name": "Institucionalidad y gestión del proyecto",
+      "key": "institucionalidad_y_gestion_del_proyecto"
+    },
+    {
+      "id": 20,
+      "macro_id": 1,
+      "name": "Interculturalidad - tensiones y representaciones",
+      "key": "interculturalidad_tensiones_y_representaciones"
+    },
+    {
+      "id": 21,
+      "macro_id": 1,
+      "name": "Pertinencia contextual del proyecto",
+      "key": "pertinencia_contextual_del_proyecto"
+    },
+    {
+      "id": 22,
+      "macro_id": 1,
+      "name": "Prácticas pedagógicas y uso del cine",
+      "key": "practicas_pedagogicas_y_uso_del_cine"
+    },
+    {
+      "id": 23,
+      "macro_id": 1,
+      "name": "Recursos y materialidades",
+      "key": "recursos_y_materialidades"
+    },
+    {
+      "id": 24,
+      "macro_id": 3,
+      "name": "Clima socioafectivo",
+      "key": "clima_socioafectivo"
+    },
+    {
+      "id": 25,
+      "macro_id": 3,
+      "name": "Comunicación pedagógica docente",
+      "key": "comunicacion_pedagogica_docente"
+    },
+    {
+      "id": 26,
+      "macro_id": 3,
+      "name": "Estructura de la clase",
+      "key": "estructura_de_la_clase"
+    },
+    {
+      "id": 27,
+      "macro_id": 3,
+      "name": "Evaluación y cierre",
+      "key": "evaluacion_y_cierre"
+    },
+    {
+      "id": 28,
+      "macro_id": 3,
+      "name": "Objetivo pedagógico",
+      "key": "objetivo_pedagogico"
+    },
+    {
+      "id": 29,
+      "macro_id": 3,
+      "name": "Participación estudiantil",
+      "key": "participacion_estudiantil"
+    },
+    {
+      "id": 30,
+      "macro_id": 3,
+      "name": "Reflexión crítica e interculturalidad",
+      "key": "reflexion_critica_e_interculturalidad"
+    },
+    {
+      "id": 31,
+      "macro_id": 3,
+      "name": "Uso de materiales",
+      "key": "uso_de_materiales"
+    },
+    {
+      "id": 32,
+      "macro_id": 5,
+      "name": "Coherencia curricular",
+      "key": "coherencia_curricular"
+    },
+    {
+      "id": 33,
+      "macro_id": 5,
+      "name": "Integración entre asignaturas",
+      "key": "integracion_entre_asignaturas"
+    },
+    {
+      "id": 34,
+      "macro_id": 5,
+      "name": "Propuestas de articulación",
+      "key": "propuestas_de_articulacion"
+    },
+    {
+      "id": 35,
+      "macro_id": 2,
+      "name": "EMERG_01 - Aburrimiento estético / desgano frente al visionado",
+      "key": "emerg_01_aburrimiento_estetico_desgano_frente_al_visionado"
+    },
+    {
+      "id": 36,
+      "macro_id": 2,
+      "name": "EMERG_02 - Rechazo moral a garabatos en cortometraje",
+      "key": "emerg_02_rechazo_moral_a_garabatos_en_cortometraje"
+    },
+    {
+      "id": 37,
+      "macro_id": 2,
+      "name": "EMERG_03 - Expectativa de experiencia cinematográfica (comida /consumo cultural)",
+      "key": "emerg_03_expectativa_de_experiencia_cinematografica_comida_consumo_cultural"
+    },
+    {
+      "id": 38,
+      "macro_id": 2,
+      "name": "EMERG_04 - Condiciones materiales incómodas (sillas duras / confort físico)",
+      "key": "emerg_04_condiciones_materiales_incomodas_sillas_duras_confort_fisico"
+    },
+    {
+      "id": 39,
+      "macro_id": 2,
+      "name": "EMERG_05 - Disposicion a seguir trabajando interculturalidad",
+      "key": "emerg_05_disposicion_a_seguir_trabajando_interculturalidad"
+    },
+    {
+      "id": 40,
+      "macro_id": 7,
+      "name": "Limitaciones del cuadernillo",
+      "key": "limitaciones_del_cuadernillo"
+    },
+    {
+      "id": 41,
+      "macro_id": 7,
+      "name": "Pertinencia y adecuación del cuadernillo",
+      "key": "pertinencia_y_adecuacion_del_cuadernillo"
+    },
+    {
+      "id": 42,
+      "macro_id": 7,
+      "name": "Sugerencias de mejora",
+      "key": "sugerencias_de_mejora"
+    }
+  ],
+  "items": [
+    {
+      "code_id": 1,
+      "type": "analytic_note",
+      "text": "Este código complementa \"Estudiantes – agencia\".",
+      "order": 1
+    },
+    {
+      "code_id": 1,
+      "type": "border_rule",
+      "text": "Si el fragmento es solo participación, se debe codificar en Participación estudiantil. La reflexión profunda se codifica aquí, no en Participación estudiantil.",
+      "order": 1
+    },
+    {
+      "code_id": 1,
+      "type": "definition",
+      "text": "Apropiación, reflexión y aprendizajes derivados del festival. Se incluyen declaraciones sobre la importancia de la opinión de otras personas o de aprender de otras culturas.\nCriterios de inclusión: El fragmento debe incluir declaraciones de estudiantes, reflexividad o impacto formativo. Ejemplos incluyen que los estudiantes entendieron mejor las experiencias migrantes.\nCriterios de exclusión: El código NO se aplica a comentarios afectivos no vinculados a aprendizaje ni a comentarios no vinculados al festival. Tampoco se usa si se expresa la disposición a seguir trabajando en interculturalidad (que se codifica en EMERG_05).",
+      "order": 1
+    },
+    {
+      "code_id": 1,
+      "type": "example",
+      "text": "“Los estudiantes entendieron mejor las experiencias migrantes”. O, por ejemplo, cuando un estudiante dice que el cortometraje le hizo \"muy efectivo porque también le enseña a las personas a no quedarse calladas cuando hacen eso\".",
+      "order": 1
+    },
+    {
+      "code_id": 2,
+      "type": "analytic_note",
+      "text": "Este código evalúa la consistencia interna del festival.",
+      "order": 1
+    },
+    {
+      "code_id": 2,
+      "type": "border_rule",
+      "text": "Si la evaluación es solo sobre la película (sus rasgos, ritmo o dificultad), se debe codificar en Rol pedagógico de las películas.",
+      "order": 1
+    },
+    {
+      "code_id": 2,
+      "type": "definition",
+      "text": "Evaluaciones de claridad, objetivos y alineación formativa del festival.\nCriterios de inclusión: El fragmento debe incluir la mención explícita a objetivos del festival o a su sentido pedagógico.\nCriterios de exclusión: El código NO se aplica a comentarios sobre la película sin referencia a los objetivos del festival.",
+      "order": 1
+    },
+    {
+      "code_id": 2,
+      "type": "example",
+      "text": "“La explicación inicial dejó claro para qué era el festival”.",
+      "order": 1
+    },
+    {
+      "code_id": 3,
+      "type": "analytic_note",
+      "text": "Este código actúa como una bisagra entre el diseño y la organización del proyecto.",
+      "order": 1
+    },
+    {
+      "code_id": 3,
+      "type": "border_rule",
+      "text": "Si la mención es sobre equipamiento (por ejemplo, el audio), el fragmento se debe codificar en Recursos y materialidades. Si la queja es sobre el malestar físico causado por el mobiliario, como las sillas duras, debe codificarse en EMERG_04",
+      "order": 1
+    },
+    {
+      "code_id": 3,
+      "type": "border_rule",
+      "text": "Condiciones materiales incómodas.",
+      "order": 2
+    },
+    {
+      "code_id": 3,
+      "type": "definition",
+      "text": "Tiempos, fechas, superposiciones y organización operativa. Se refiere a las dificultades o facilitadores logísticos.\nCriterios de inclusión: El fragmento debe incluir referencias a duración, superposición de actividades o calendario.\nCriterios de exclusión: El código NO se aplica a comentarios sobre infraestructura o equipos. Si la referencia es al equipamiento, se debe usar otro código.",
+      "order": 1
+    },
+    {
+      "code_id": 3,
+      "type": "example",
+      "text": "“Coincidió con otras actividades del colegio”.",
+      "order": 1
+    },
+    {
+      "code_id": 4,
+      "type": "analytic_note",
+      "text": "Este código cierra el ciclo formativo.",
+      "order": 1
+    },
+    {
+      "code_id": 4,
+      "type": "border_rule",
+      "text": "Si el fragmento no refiere al festival, el código no aplica.",
+      "order": 1
+    },
+    {
+      "code_id": 4,
+      "type": "definition",
+      "text": "Evaluación aplicada y aprendizajes no previstos.\nCriterios de inclusión: El fragmento debe incluir referencias a instrumentos, sorpresas, o aprendizajes culturales emergentes.\nCriterios de exclusión: El código NO se aplica a la evaluación de talleres o clases específicas.",
+      "order": 1
+    },
+    {
+      "code_id": 4,
+      "type": "example",
+      "text": "“La actividad final mostró aprendizajes no planificados.”",
+      "order": 1
+    },
+    {
+      "code_id": 5,
+      "type": "analytic_note",
+      "text": "Este código conecta el diseño del material con la práctica docente.",
+      "order": 1
+    },
+    {
+      "code_id": 5,
+      "type": "border_rule",
+      "text": "Si el fragmento no describe mediación, el código no aplica.",
+      "order": 1
+    },
+    {
+      "code_id": 5,
+      "type": "definition",
+      "text": "Prácticas docentes durante el festival y uso del cuadernillo.\nCriterios de inclusión: El fragmento debe incluir referencias a pausas, guía, uso de preguntas, o actividades del cuadernillo. Un ejemplo de inclusión es: “La profesora iba pausando la película para preguntar”.\nCriterios de exclusión: Comentarios sobre el diseño del cuadernillo sin uso real.",
+      "order": 1
+    },
+    {
+      "code_id": 5,
+      "type": "example",
+      "text": "“La profesora iba pausando la película para preguntar”.",
+      "order": 1
+    },
+    {
+      "code_id": 6,
+      "type": "analytic_note",
+      "text": "Este código mide la apropiación institucional del festival.",
+      "order": 1
+    },
+    {
+      "code_id": 6,
+      "type": "border_rule",
+      "text": "Si la participación descrita es institucional formal, se debe codificar en Institucionalidad.",
+      "order": 1
+    },
+    {
+      "code_id": 6,
+      "type": "definition",
+      "text": "Nivel y tipo de involucramiento de docentes, estudiantes y apoderados.\nCriterios de inclusión: El fragmento debe incluir referencias a quiénes participaron, sus roles, apoyos o ausencias.\nCriterios de exclusión: El código NO se aplica a la participación en otros proyectos no relacionados.",
+      "order": 1
+    },
+    {
+      "code_id": 6,
+      "type": "example",
+      "text": "“Los docentes acompañaron activamente”.",
+      "order": 1
+    },
+    {
+      "code_id": 7,
+      "type": "definition",
+      "text": "Evaluación de la idoneidad de las películas seleccionadas respecto a la edad (madurez cognitiva), intereses culturales y realidad social del estudiantado.\n\nCriterios de inclusión: Comentarios sobre si la película era \"muy infantil\" o \"muy compleja\"; si los temas tocaban la realidad local o eran \"ajenos\"; conexión con intereses vitales.\n\nCriterios de Exclusión: Críticas estéticas (aburrida/bonita) -> Rol pedagógico o EMERG_01. Efectos emocionales (llanto/risa) -> Cine como dispositivo.",
+      "order": 1
+    },
+    {
+      "code_id": 7,
+      "type": "example",
+      "text": "\"Esa película era muy lenta para niños de quinto, ellos están en otra.\" o \"Se vieron reflejados porque pasaba en un barrio parecido.\"",
+      "order": 1
+    },
+    {
+      "code_id": 7,
+      "type": "example",
+      "text": "Notas: Añadido en V1.2.",
+      "order": 2
+    },
+    {
+      "code_id": 7,
+      "type": "example",
+      "text": "Reglas: Debe referirse al ajuste (adecuación), no solo a si les gustó o no.",
+      "order": 3
+    },
+    {
+      "code_id": 8,
+      "type": "analytic_note",
+      "text": "El foco está en el film.",
+      "order": 1
+    },
+    {
+      "code_id": 8,
+      "type": "border_rule",
+      "text": "Si el fragmento se refiere a impacto emocional (como la emoción, reflexión o identificación en un sentido formativo), se debe codificar en Cine como dispositivo formativo. Si la referencia es a la técnica del film, entonces se codifica aquí (Rol pedagógico).",
+      "order": 1
+    },
+    {
+      "code_id": 8,
+      "type": "definition",
+      "text": "Rasgos del film que influyen en el aprendizaje.\nCriterios de inclusión: El fragmento debe incluir referencias a identificación, ritmo, dificultad o comprensión del film. Un ejemplo de inclusión es: “Era compleja por su ritmo rápido”.\nCriterios de exclusión: El código NO se aplica a comentarios técnicos de equipamiento.",
+      "order": 1
+    },
+    {
+      "code_id": 8,
+      "type": "example",
+      "text": "“Era compleja por su ritmo rápido”.",
+      "order": 1
+    },
+    {
+      "code_id": 9,
+      "type": "analytic_note",
+      "text": "Mide impacto pedagógico inmediato.",
+      "order": 1
+    },
+    {
+      "code_id": 9,
+      "type": "border_rule",
+      "text": "Si el fragmento no describe un cambio sino un efecto emocional, se debe codificar en Cine como dispositivo formativo.",
+      "order": 1
+    },
+    {
+      "code_id": 9,
+      "type": "definition",
+      "text": "Transformaciones concretas en prácticas docentes asociadas al taller.\nCriterios de inclusión: El fragmento debe incluir declaraciones de cambio en el uso del cine o nuevas dinámicas metodológicas.\nCriterios de exclusión: Valoraciones conceptuales sin cambio observable; comentarios sobre el festival.",
+      "order": 1
+    },
+    {
+      "code_id": 9,
+      "type": "example",
+      "text": "“Después del taller empecé a usar escenas cortas para trabajar diversidad.”",
+      "order": 1
+    },
+    {
+      "code_id": 10,
+      "type": "analytic_note",
+      "text": "Este código evalúa la consistencia didáctica interna del taller.",
+      "order": 1
+    },
+    {
+      "code_id": 10,
+      "type": "border_rule",
+      "text": "Si el comentario no refiere al taller (sino al evento cinematográfico), se debe codificar en Coherencia pedagógica del festival",
+      "order": 1
+    },
+    {
+      "code_id": 10,
+      "type": "definition",
+      "text": "Valoraciones sobre la claridad de los objetivos del taller y su alineación con actividades y materiales.\nCriterios de inclusión: El fragmento debe incluir referencias a objetivos claros, el sentido del taller, o la articulación interna del mismo.\nCriterios de exclusión: El código NO se aplica a opiniones sobre el festival ni a reflexiones pedagógicas genéricas que no estén referidas al taller específico.",
+      "order": 1
+    },
+    {
+      "code_id": 10,
+      "type": "example",
+      "text": "“Los objetivos del taller fueron claros y se entendían”.",
+      "order": 1
+    },
+    {
+      "code_id": 11,
+      "type": "analytic_note",
+      "text": "Este código conecta dimensiones pedagógicas e institucionales.",
+      "order": 1
+    },
+    {
+      "code_id": 11,
+      "type": "border_rule",
+      "text": "Si el comentario se refiere exclusivamente a equipamiento, se debe codificar en Recursos y materialidades.",
+      "order": 1
+    },
+    {
+      "code_id": 11,
+      "type": "definition",
+      "text": "Factores facilitadores o restrictivos en la ejecución del taller.\nCriterios de inclusión: El fragmento debe incluir referencias a tiempo, participación, apoyo UTP/dirección, clima institucional, o recursos mínimos.\nCriterios de exclusión: El código NO se aplica a tensiones estructurales del colegio no ligadas al taller.",
+      "order": 1
+    },
+    {
+      "code_id": 11,
+      "type": "example",
+      "text": "“La falta de tiempo complicó la realización del taller”.",
+      "order": 1
+    },
+    {
+      "code_id": 12,
+      "type": "analytic_note",
+      "text": "Es una dimensión clave para evaluar la alineación contextual del dispositivo pedagógico.",
+      "order": 1
+    },
+    {
+      "code_id": 12,
+      "type": "border_rule",
+      "text": "Si el comentario menciona solo recursos, se debe codificar en Recursos y materialidades",
+      "order": 1
+    },
+    {
+      "code_id": 12,
+      "type": "definition",
+      "text": "Percepciones sobre el ajuste del taller a la realidad escolar, sus necesidades y características socioculturales del estudiantado.\nCriterios de inclusión: El fragmento debe incluir referencias a contexto escolar, composición migrante, vulnerabilidad o pertinencia local.\nCriterios de exclusión: El código NO se aplica a comentarios sobre recursos materiales o gestión del tiempo. Tampoco se aplica a evaluaciones normativas de diversidad.",
+      "order": 1
+    },
+    {
+      "code_id": 12,
+      "type": "example",
+      "text": "“El taller se ajusta a la realidad del colegio porque trabajamos con cursos muy diversos”.",
+      "order": 1
+    },
+    {
+      "code_id": 13,
+      "type": "analytic_note",
+      "text": "Este código está asociado a liderazgo y sostenibilidad del trabajo intercultural.",
+      "order": 1
+    },
+    {
+      "code_id": 13,
+      "type": "border_rule",
+      "text": "Si no se expresa continuidad, no se codifica aquí.",
+      "order": 1
+    },
+    {
+      "code_id": 13,
+      "type": "definition",
+      "text": "Estrategias o deseos de continuidad formal del trabajo intercultural.\nCriterios de inclusión: El fragmento debe incluir referencias a la integración en PME, reglamentos, planes de convivencia, o propuestas de continuidad.\nCriterios de exclusión: El código NO se aplica a la satisfacción sin proyección o a referencias al festival sin continuidad institucional.",
+      "order": 1
+    },
+    {
+      "code_id": 13,
+      "type": "example",
+      "text": "“Sería bueno incluir esto en el PME para que no quede solo como algo puntual”.",
+      "order": 1
+    },
+    {
+      "code_id": 14,
+      "type": "analytic_note",
+      "text": "Este código es el núcleo conceptual del proyecto.",
+      "order": 1
+    },
+    {
+      "code_id": 14,
+      "type": "border_rule",
+      "text": "Si el comentario se refiere a la técnica del film (sus rasgos, ritmo, dificultad o comprensión), debe codificarse en Rol pedagógico de las películas. Si el fragmento se refiere al impacto emocional debe codificarse en Cine como dispositivo formativo.",
+      "order": 1
+    },
+    {
+      "code_id": 14,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 14,
+      "type": "definition",
+      "text": "Efectos formativos del cine que incluyen identificación, emoción, y reflexión.\nCriterios de inclusión: El fragmento debe incluir referencias a afecto, revelación emocional, conexión identitaria, movilización emocional, o debate. Un ejemplo de inclusión es: “La película permitió que hablaran de temas difíciles”.\nCriterios de exclusión: El código NO se aplica a la descripción técnica de películas o a las propiedades técnicas del film.",
+      "order": 1
+    },
+    {
+      "code_id": 14,
+      "type": "example",
+      "text": "“La película permitió que hablaran de temas difíciles”.",
+      "order": 1
+    },
+    {
+      "code_id": 15,
+      "type": "analytic_note",
+      "text": "Este código Captura cultura escolar.",
+      "order": 1
+    },
+    {
+      "code_id": 15,
+      "type": "border_rule",
+      "text": "Si la mención depende de un rol formal, el fragmento se debe codificar en Institucionalidad.",
+      "order": 1
+    },
+    {
+      "code_id": 15,
+      "type": "definition",
+      "text": "Colaboración informal y apoyo mutuo.\nCriterios de inclusión: El fragmento debe incluir referencias a la Organización colectiva no formal.\nCriterios de exclusión: El código NO se aplica a la Gestión institucional formal.",
+      "order": 1
+    },
+    {
+      "code_id": 15,
+      "type": "example",
+      "text": "“Los profes se organizaron para suplir materiales.”.",
+      "order": 1
+    },
+    {
+      "code_id": 16,
+      "type": "analytic_note",
+      "text": "Este código mide condiciones subjetivas.",
+      "order": 1
+    },
+    {
+      "code_id": 16,
+      "type": "border_rule",
+      "text": "Si el fragmento refiere a un aspecto institucional, se debe codificar en Institucionalidad. Si el fragmento solo menciona carga docente, también se debe codificar en este código, en lugar de en \"Coherencia curricular\".",
+      "order": 1
+    },
+    {
+      "code_id": 16,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 16,
+      "type": "definition",
+      "text": "Afectos, malestar, inseguridades y reflexividad docente.\nCriterios de inclusión: El fragmento debe incluir referencias a sobrecarga, desgaste, incomodidad.\nCriterios de exclusión: Comentarios sobre la estructura institucional.",
+      "order": 1
+    },
+    {
+      "code_id": 16,
+      "type": "example",
+      "text": "“Me siento sobrecargado con cursos diversos”.",
+      "order": 1
+    },
+    {
+      "code_id": 17,
+      "type": "analytic_note",
+      "text": "Este código es una Macro transversal.",
+      "order": 1
+    },
+    {
+      "code_id": 17,
+      "type": "border_rule",
+      "text": "Si el fragmento se refiere a descripciones sin agencia explícita, se debe codificar en Tensiones interculturales.",
+      "order": 1
+    },
+    {
+      "code_id": 17,
+      "type": "border_rule",
+      "text": "(Nota: Este código es complementado por otros códigos más específicos, como \"Aprendizajes y reflexiones estudiantiles\", el cual se aplica a la apropiación, reflexión e impacto formativo derivado del festival, e incluye declaraciones de estudiantes y reflexividad. Si el fragmento es solo sobre participación sin reflexión, se codifica en \"Participación estudiantil\").",
+      "order": 2
+    },
+    {
+      "code_id": 17,
+      "type": "definition",
+      "text": "Características, participación, agencia y aprendizajes reconocidos por adultos.\nCriterios de inclusión: El fragmento debe incluir referencias a motivación, toma de postura, o aprendizajes situados.\nCriterios de exclusión: Descripciones sin agencia.",
+      "order": 1
+    },
+    {
+      "code_id": 17,
+      "type": "example",
+      "text": "“Se motivaron y tomaron postura.”.",
+      "order": 1
+    },
+    {
+      "code_id": 18,
+      "type": "analytic_note",
+      "text": "Este código Permite cierre institucional.",
+      "order": 1
+    },
+    {
+      "code_id": 18,
+      "type": "border_rule",
+      "text": "Si el fragmento no se refiere al proyecto global, el código no aplica.",
+      "order": 1
+    },
+    {
+      "code_id": 18,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 18,
+      "type": "definition",
+      "text": "Balance global del proyecto y su continuidad institucional.\nCriterios de inclusión: El fragmento debe incluir referencias a Aprendizajes institucionales, proyecciones futuras, o Evaluación general.\nCriterios de exclusión: El código NO se aplica a Evaluaciones de clases específicas.",
+      "order": 1
+    },
+    {
+      "code_id": 18,
+      "type": "example",
+      "text": "“El proyecto dejó aprendizajes que queremos repetir”. Otros ejemplos de citas codificadas incluyen valoraciones generales como “Súper genial”, “Interactivo” o “Excelente”, o la mención de que es “necesario” preguntar a los estudiantes sobre su experiencia y lo que les ha pasado.",
+      "order": 1
+    },
+    {
+      "code_id": 19,
+      "type": "analytic_note",
+      "text": "Este código representa la Condición de posibilidad institucional.",
+      "order": 1
+    },
+    {
+      "code_id": 19,
+      "type": "border_rule",
+      "text": "Si el fragmento se refiere a colaboración informal y apoyo mutuo (Organización colectiva no formal), se debe codificar en Comunidad escolar y autogestión. Si la mención depende de un rol formal, se debe codificar aquí (Institucionalidad).",
+      "order": 1
+    },
+    {
+      "code_id": 19,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 19,
+      "type": "definition",
+      "text": "Prácticas, decisiones y estructuras institucionales que enmarcan el proyecto.\nCriterios de inclusión: El fragmento debe incluir referencias a Dirección, UTP, DAEM, o coordinación.\nCriterios de exclusión: El código NO se aplica a prácticas pedagógicas del aula.",
+      "order": 1
+    },
+    {
+      "code_id": 19,
+      "type": "example",
+      "text": "“La UTP coordinó los horarios”.",
+      "order": 1
+    },
+    {
+      "code_id": 20,
+      "type": "analytic_note",
+      "text": "Este código es un eje sensible del análisis.",
+      "order": 1
+    },
+    {
+      "code_id": 20,
+      "type": "border_rule",
+      "text": "Debe haber tensión explícita.",
+      "order": 1
+    },
+    {
+      "code_id": 20,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente.",
+      "order": 2
+    },
+    {
+      "code_id": 20,
+      "type": "definition",
+      "text": "Estereotipos, discriminación, tensiones derivadas de diversidad cultural.\nCriterios de inclusión: El fragmento debe incluir referencias a comentarios sobre migración, trato desigual, reputación migrante, o desfases culturales.\nCriterios de exclusión: El código NO se aplica a la descripción neutra sin tensión.",
+      "order": 1
+    },
+    {
+      "code_id": 20,
+      "type": "example",
+      "text": "“A los migrantes los tratan distinto.”.",
+      "order": 1
+    },
+    {
+      "code_id": 21,
+      "type": "example",
+      "text": "\"Nuestro sello es la excelencia, y el proyecto calza bien porque aporta cultura general.\"",
+      "order": 1
+    },
+    {
+      "code_id": 21,
+      "type": "example",
+      "text": "Notas: Añadido en V1.2.",
+      "order": 2
+    },
+    {
+      "code_id": 21,
+      "type": "example",
+      "text": "Reglas: Si habla de gestión de recursos (tiempo/espacio) -> Condiciones de implementación. Si habla de ajuste a la identidad -> Pertinencia.",
+      "order": 3
+    },
+    {
+      "code_id": 22,
+      "type": "analytic_note",
+      "text": "Este código sirve como Complemento a la mediación docente.",
+      "order": 1
+    },
+    {
+      "code_id": 22,
+      "type": "border_rule",
+      "text": "Si el fragmento se refiere al efecto emocional (identificación, emoción, reflexión) producido por la película, se debe codificar en Cine como dispositivo formativo.",
+      "order": 1
+    },
+    {
+      "code_id": 22,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 22,
+      "type": "definition",
+      "text": "Estrategias docentes al trabajar cine en clase.\nCriterios de inclusión: El fragmento debe incluir referencias a la Introducción, guía, cierre, o secuencias (actividades derivadas). Un ejemplo de inclusión es: “Inició la película con una pregunta motivadora”.\nCriterios de exclusión: El código NO se aplica a Evaluaciones del festival ni a Comentarios técnicos sobre infraestructura.",
+      "order": 1
+    },
+    {
+      "code_id": 22,
+      "type": "example",
+      "text": "“Inició la película con una pregunta motivadora”.",
+      "order": 1
+    },
+    {
+      "code_id": 23,
+      "type": "analytic_note",
+      "text": "Este código ancla material.",
+      "order": 1
+    },
+    {
+      "code_id": 23,
+      "type": "border_rule",
+      "text": "La mención de tiempo se codifica en Condiciones logísticas. Además, si un comentario es sobre la calidad del audio o los parlantes, no se codifica en EMERG_04 - Condiciones materiales incómodas, sino en Condiciones logísticas. Este código es la categoría a utilizar si el fragmento se refiere al equipamiento cuando se está en el contexto de Condiciones logísticas. También se utiliza si se menciona solo recursos cuando se está evaluando la Pertinencia contextual de los talleres.",
+      "order": 1
+    },
+    {
+      "code_id": 23,
+      "type": "border_rule",
+      "text": "Este código pertenece a la Macro-categoría Contexto emergente y prácticas escolares.",
+      "order": 2
+    },
+    {
+      "code_id": 23,
+      "type": "definition",
+      "text": "Infraestructura y equipamiento.\nCriterios de inclusión: El fragmento debe incluir referencias a proyector, sala, o materiales.\nCriterios de exclusión: El código NO se aplica a tiempo o calendario.",
+      "order": 1
+    },
+    {
+      "code_id": 23,
+      "type": "example",
+      "text": "“El proyector no funcionó bien”.",
+      "order": 1
+    },
+    {
+      "code_id": 24,
+      "type": "analytic_note",
+      "text": "Este código está vinculado a convivencia escolar.",
+      "order": 1
+    },
+    {
+      "code_id": 24,
+      "type": "border_rule",
+      "text": "Si la mención es sobre control disciplinar, el código no aplica.",
+      "order": 1
+    },
+    {
+      "code_id": 24,
+      "type": "definition",
+      "text": "Ambiente emocional que incluye respeto, contención y confianza.\nCriterios de inclusión: El fragmento debe incluir referencias a clima, emociones, o cuidado mutuo.\nCriterios de exclusión: El código NO se aplica a la disciplina sin dimensión afectiva.",
+      "order": 1
+    },
+    {
+      "code_id": 24,
+      "type": "example",
+      "text": "“Participaron con confianza”. Otros ejemplos de material son cuando un estudiante dice que casi no le gusta hablar de un tema porque lo hace sentir mal, o cuando se menciona que hay respeto y los estudiantes se sienten escuchados.",
+      "order": 1
+    },
+    {
+      "code_id": 25,
+      "type": "analytic_note",
+      "text": "Este código representa el núcleo de la mediación formativa.",
+      "order": 1
+    },
+    {
+      "code_id": 25,
+      "type": "border_rule",
+      "text": "Si el fragmento se refiere solo a materiales, se debe codificar en Uso de materiales.",
+      "order": 1
+    },
+    {
+      "code_id": 25,
+      "type": "definition",
+      "text": "Estrategias discursivas y explicativas del docente.\nCriterios de inclusión: El fragmento debe incluir referencias a preguntas, ejemplos, o retroalimentación.\nCriterios de exclusión: Uso de materiales sin interacción.",
+      "order": 1
+    },
+    {
+      "code_id": 25,
+      "type": "example",
+      "text": "“Hacía preguntas abiertas”.",
+      "order": 1
+    },
+    {
+      "code_id": 26,
+      "type": "analytic_note",
+      "text": "Este código complementa la comunicación docente.",
+      "order": 1
+    },
+    {
+      "code_id": 26,
+      "type": "border_rule",
+      "text": "Si la mención es sobre planificación aislada, el código no aplica.",
+      "order": 1
+    },
+    {
+      "code_id": 26,
+      "type": "definition",
+      "text": "Organización del tiempo y secuencia (inicio-desarrollo-cierre).\nCriterios de inclusión: El fragmento debe incluir referencias al orden lógico de actividades.\nCriterios de exclusión: El código NO se aplica a comentarios generales del proyecto ni a la planificación aislada.",
+      "order": 1
+    },
+    {
+      "code_id": 26,
+      "type": "example",
+      "text": "“La clase tuvo un inicio claro y un cierre reflexivo”.",
+      "order": 1
+    },
+    {
+      "code_id": 27,
+      "type": "analytic_note",
+      "text": "Este código mide el cierre formativo.",
+      "order": 1
+    },
+    {
+      "code_id": 27,
+      "type": "border_rule",
+      "text": "Debe referir explícitamente al cierre. Si el fragmento refiere a la evaluación de talleres o clases específicas, pero no al cierre formativo de la clase, no aplica. Si el fragmento no refiere al proyecto global de forma institucional, el código no aplica, ya que la evaluación del proyecto global se codifica en Evaluación y proyección del proyecto.",
+      "order": 1
+    },
+    {
+      "code_id": 27,
+      "type": "definition",
+      "text": "Estrategias de síntesis y cierre de clase.\nCriterios de inclusión: El fragmento debe incluir referencias a preguntas finales, recapitulación, o cierre afectivo o reflexivo. Un ejemplo de inclusión es cuando se menciona que los estudiantes tuvieron que hacer un dibujo sobre la película.\nCriterios de exclusión: El código NO se aplica a pruebas formales no vinculadas a la clase.",
+      "order": 1
+    },
+    {
+      "code_id": 27,
+      "type": "example",
+      "text": "“Cada estudiante dijo una idea aprendida”. O: “Ah, nosotros tuvimos que hacer un dibujo sobre la película”.",
+      "order": 1
+    },
+    {
+      "code_id": 28,
+      "type": "analytic_note",
+      "text": "Este código evalúa la explicitación del sentido de la clase.",
+      "order": 1
+    },
+    {
+      "code_id": 28,
+      "type": "border_rule",
+      "text": "Debe referirse a una clase concreta.",
+      "order": 1
+    },
+    {
+      "code_id": 28,
+      "type": "definition",
+      "text": "Declaración del propósito de la clase vinculado a la interculturalidad.\nCriterios de inclusión: El fragmento debe incluir la mención explícita de objetivos pedagógicos de la clase.\nCriterios de exclusión: El código NO se aplica a objetivos institucionales generales.",
+      "order": 1
+    },
+    {
+      "code_id": 28,
+      "type": "example",
+      "text": "“Explicó que trabajaríamos interculturalidad”.",
+      "order": 1
+    },
+    {
+      "code_id": 29,
+      "type": "analytic_note",
+      "text": "Este código se relaciona con la agencia juvenil. Complementa la agencia estudiantil.",
+      "order": 1
+    },
+    {
+      "code_id": 29,
+      "type": "border_rule",
+      "text": "Si hay reflexión profunda, el fragmento se debe codificar en Aprendizajes y reflexiones estudiantiles (que es la macrocategoría que complementa la agencia estudiantil).",
+      "order": 1
+    },
+    {
+      "code_id": 29,
+      "type": "definition",
+      "text": "Grado y forma de involucramiento activo.\nCriterios de inclusión: El fragmento debe incluir referencias a quiénes hablan, la toma de postura, o la equidad en el acceso a la palabra. Un ejemplo de inclusión es: “Muchos pidieron la palabra para opinar”. Otro ejemplo es la declaración de un estudiante de que le gusta dar su opinión y que lo escuchen sobre lo que le están preguntando. O cuando los estudiantes explican que se sientan todos a hablar sobre el tema, lo que les da confianza.\nCriterios de exclusión: El código NO se aplica a la participación en el festival.",
+      "order": 1
+    },
+    {
+      "code_id": 29,
+      "type": "example",
+      "text": "“Muchos pidieron la palabra para opinar”.",
+      "order": 1
+    },
+    {
+      "code_id": 30,
+      "type": "analytic_note",
+      "text": "Este código es un eje del OE2 (Objetivo Específico 2).",
+      "order": 1
+    },
+    {
+      "code_id": 30,
+      "type": "border_rule",
+      "text": "Si no hay crítica, el fragmento se debe codificar en Tensiones interculturales.",
+      "order": 1
+    },
+    {
+      "code_id": 30,
+      "type": "definition",
+      "text": "Problematización explícita de desigualdades o discriminación.\nCriterios de inclusión: El fragmento debe incluir discusiones sobre racismo, trato desigual, o tensiones culturales. Por ejemplo, cuando se menciona que los niños hablaron de discriminación vivida. Otros ejemplos de material son cuando los estudiantes expresan la necesidad de \"aprender a no discriminar\" o cuando buscan \"transmitir de que pararan la discriminación\" al dar su opinión. También cuando se habla de respetar la opinión de cada quien, incluyendo temas como la religión.\nCriterios de exclusión: Descripciones sin crítica.",
+      "order": 1
+    },
+    {
+      "code_id": 30,
+      "type": "example",
+      "text": "“Los niños hablaron de discriminación vivida”.",
+      "order": 1
+    },
+    {
+      "code_id": 31,
+      "type": "analytic_note",
+      "text": "Este código representa la dimensión instrumental.",
+      "order": 1
+    },
+    {
+      "code_id": 31,
+      "type": "border_rule",
+      "text": "Debe describir el uso en el aula. Si el fragmento se refiere a las estrategias discursivas y explicativas del docente (como preguntas o retroalimentación) y no solo a los materiales, se debe codificar en Comunicación pedagógica docente.",
+      "order": 1
+    },
+    {
+      "code_id": 31,
+      "type": "definition",
+      "text": "Empleo del cuadernillo y recursos didácticos.\nCriterios de inclusión: El fragmento debe incluir el uso concreto en clase.\nCriterios de exclusión: Comentarios sobre disponibilidad general.",
+      "order": 1
+    },
+    {
+      "code_id": 31,
+      "type": "example",
+      "text": "“Usamos el cuadernillo para guiar la discusión”.",
+      "order": 1
+    },
+    {
+      "code_id": 32,
+      "type": "analytic_note",
+      "text": "Este código conecta currículum y dispositivo.",
+      "order": 1
+    },
+    {
+      "code_id": 32,
+      "type": "border_rule",
+      "text": "Si el fragmento solo menciona carga docente, se debe codificar en Docentes – tensiones.",
+      "order": 1
+    },
+    {
+      "code_id": 32,
+      "type": "definition",
+      "text": "Necesidad de estructura compartida entre áreas.\nCriterios de inclusión: El fragmento debe incluir referencias a objetivos, rúbricas, o cronogramas comunes.\nCriterios de exclusión: El código NO se aplica a comentarios sueltos sin referencia curricular.",
+      "order": 1
+    },
+    {
+      "code_id": 32,
+      "type": "example",
+      "text": "“Falta una rúbrica común entre áreas”.",
+      "order": 1
+    },
+    {
+      "code_id": 33,
+      "type": "analytic_note",
+      "text": "Este código es considerado un eje emergente fuerte.",
+      "order": 1
+    },
+    {
+      "code_id": 33,
+      "type": "border_rule",
+      "text": "Debe mencionar explícitamente dos o más asignaturas.",
+      "order": 1
+    },
+    {
+      "code_id": 33,
+      "type": "definition",
+      "text": "Articulación interdisciplinaria entre áreas curriculares.\nCriterios de inclusión: El fragmento debe incluir referencias a:\n• Historia + tecnología.\n• Música + artes.\n• Inglés + tecnología.\n• O a la vinculación de dos o más asignaturas (≥ 2 asignaturas vinculadas).\nCriterios de exclusión: El código NO se aplica a prácticas aisladas.",
+      "order": 1
+    },
+    {
+      "code_id": 33,
+      "type": "example",
+      "text": "“Vimos cómo se conectaba historia con tecnología”.",
+      "order": 1
+    },
+    {
+      "code_id": 34,
+      "type": "analytic_note",
+      "text": "Este código es proyectivo.",
+      "order": 1
+    },
+    {
+      "code_id": 34,
+      "type": "border_rule",
+      "text": "Debe haber propuesta explícita.",
+      "order": 1
+    },
+    {
+      "code_id": 34,
+      "type": "definition",
+      "text": "Ideas específicas para coordinar asignaturas.\nCriterios de inclusión: El fragmento debe incluir referencias a proyectos anuales o secuencias compartidas.\nCriterios de exclusión: El código NO se aplica a valoraciones generales.",
+      "order": 1
+    },
+    {
+      "code_id": 34,
+      "type": "example",
+      "text": "“Podríamos trabajar una unidad conjunta”.",
+      "order": 1
+    },
+    {
+      "code_id": 35,
+      "type": "analytic_note",
+      "text": "Este desgano puede coexistir con el reconocimiento de que los videos \"estaban buenos\" y \"enseñaban\" sobre la cultura y la región. Algunos estudiantes asocian el aburrimiento a la imposibilidad de comer.",
+      "order": 1
+    },
+    {
+      "code_id": 35,
+      "type": "border_rule",
+      "text": "Si el estudiante menciona que una película era \"más divertido\", esto funciona como el opuesto directo del aburrimiento y puede ser usado para contrastar la experiencia. Si el motivo es la complejidad del film, se usa Rol pedagógico.",
+      "order": 1
+    },
+    {
+      "code_id": 35,
+      "type": "definition",
+      "text": "Expresión de falta de interés, tedio o desgano por parte del estudiante durante la visualización de los cortometrajes o la actividad.\nCriterios de inclusión: El fragmento debe incluir menciones explícitas de verbos como \"aburrir\" o la necesidad de que la actividad sea \"más divertido\" para evitar el aburrimiento.\nCriterios de exclusión: El código NO se aplica a comentarios que refieren a que la película es \"compleja\" o \"rápida\" sin mencionar un desgano personal, ya que en ese caso se codificaría en Rol pedagógico de las películas.",
+      "order": 1
+    },
+    {
+      "code_id": 35,
+      "type": "example",
+      "text": "“No, porque me aburría mucho. Viendo los cortometrajes, algunos”. O: “Porque me gustó y todo, pero aburría”.",
+      "order": 1
+    },
+    {
+      "code_id": 36,
+      "type": "analytic_note",
+      "text": "Este rechazo tiene un impacto directo en la evaluación formal que el estudiante le daría al proyecto (un 6.5 en el ejemplo).",
+      "order": 1
+    },
+    {
+      "code_id": 36,
+      "type": "border_rule",
+      "text": "La crítica debe centrarse en el lenguaje inapropiado utilizado por los personajes, y no en el contenido temático o la complejidad técnica de la película.",
+      "order": 1
+    },
+    {
+      "code_id": 36,
+      "type": "definition",
+      "text": "Crítica o evaluación negativa de los cortometrajes debido a la presencia de lenguaje considerado inapropiado (\"garabatos\" o \"groserías\").\nCriterios de inclusión: El fragmento debe incluir comentarios que critican directamente la falta de \"respeto al hablar\" o mencionan el uso de \"garabatos\" o \"groserías\" en el film.\nCriterios de exclusión: El código NO se aplica a críticas que apelan a la falta de respeto por la cultura o la discriminación, ya que estas se codifican en Interculturalidad–tensiones o Reflexión crítica.",
+      "order": 1
+    },
+    {
+      "code_id": 36,
+      "type": "example",
+      "text": "“Yo le pondría un 6.5 porque las películas que vimos… no tenía el respeto al hablar. [...] decían puros garabatos”. O: “Todo, las animaciones, todo está perfecto, excepto las groserías”.",
+      "order": 1
+    },
+    {
+      "code_id": 37,
+      "type": "analytic_note",
+      "text": "La crítica por no poder comer está vinculada indirectamente al aburrimiento general expresado por algunos estudiantes.",
+      "order": 1
+    },
+    {
+      "code_id": 37,
+      "type": "border_rule",
+      "text": "Se debe distinguir entre la comodidad del entorno físico (sillas/audio) y la práctica de consumo cultural (comida).",
+      "order": 1
+    },
+    {
+      "code_id": 37,
+      "type": "definition",
+      "text": "Declaraciones que expresan una expectativa de que el evento de visionado de películas replique la experiencia estándar de una sala de cine, enfocándose en elementos de consumo (como la comida).\nCriterios de inclusión: El fragmento debe incluir peticiones explícitas para poder comer durante el visionado. La justificación de esta petición se basa en la idea de que \"en los cines se come\".\nCriterios de exclusión: El código NO se aplica a peticiones de mayor comodidad física (sillas duras), que se codifican en EMERG_04. Tampoco a comentarios sobre la duración de los videos.",
+      "order": 1
+    },
+    {
+      "code_id": 37,
+      "type": "example",
+      "text": "“es que no podamos comer. Porque en los cines se come”. O: “Yo cambiaría… o sea, que eso, que podamos comer”.",
+      "order": 1
+    },
+    {
+      "code_id": 38,
+      "type": "analytic_note",
+      "text": "Esta preocupación refleja una distracción o una barrera al compromiso debido al bienestar corporal durante una actividad larga.",
+      "order": 1
+    },
+    {
+      "code_id": 38,
+      "type": "border_rule",
+      "text": "Se aplica únicamente a la comodidad física del asiento, no a otros aspectos de la logística (tiempos, fechas, equipamiento).",
+      "order": 1
+    },
+    {
+      "code_id": 38,
+      "type": "definition",
+      "text": "Comentarios enfocados en el malestar físico del estudiante o en la incomodidad de la infraestructura del lugar de visionado, específicamente el mobiliario.\nCriterios de inclusión: El fragmento debe incluir menciones directas a que las \"sillas sean más cómodas\" o que son \"muy duras\".\nCriterios de exclusión: El código NO se aplica a comentarios sobre la calidad del audio o los parlantes (se codifica en Condiciones logísticas). Tampoco a comentarios sobre la necesidad de hacer la actividad \"más divertido\" (se codifica en EMERG_01).",
+      "order": 1
+    },
+    {
+      "code_id": 38,
+      "type": "example",
+      "text": "“Que las sillas sean más cómodas”. O: “Las sillas, sí, verdad. Son muy duras”.",
+      "order": 1
+    },
+    {
+      "code_id": 39,
+      "type": "analytic_note",
+      "text": "Indica una recepción positiva y una apertura a la continuidad del tema más allá del proyecto inmediato.",
+      "order": 1
+    },
+    {
+      "code_id": 39,
+      "type": "border_rule",
+      "text": "Debe ser una respuesta proyectiva (querer seguir) y no una reflexión retrospectiva sobre la clase.",
+      "order": 1
+    },
+    {
+      "code_id": 39,
+      "type": "definition",
+      "text": "Respuesta explícita y afirmativa de los estudiantes ante la posibilidad de continuar participando en actividades futuras centradas en el tema de la interculturalidad.\nCriterios de inclusión: El fragmento debe incluir respuestas afirmativas (Sí) a la pregunta sobre si les gustaría seguir trabajando el tema.\nCriterios de exclusión: El código NO se aplica a declaraciones sobre lo que ya aprendieron sobre interculturalidad, lo cual se codifica en Aprendizajes y reflexiones estudiantiles.",
+      "order": 1
+    },
+    {
+      "code_id": 39,
+      "type": "example",
+      "text": "[MOD] \"¿Les gustaría seguir trabajando en actividades sobre interculturalidad?\" [EST-3] [EST-1] \"Sí\".",
+      "order": 1
+    },
+    {
+      "code_id": 40,
+      "type": "analytic_note",
+      "text": "Este código facilita el rediseño.",
+      "order": 1
+    },
+    {
+      "code_id": 40,
+      "type": "border_rule",
+      "text": "Debe haber crítica explícita. Si el comentario es sobre el uso en el festival, se debe codificar en Pertinencia y adecuación del cuadernillo.",
+      "order": 1
+    },
+    {
+      "code_id": 40,
+      "type": "definition",
+      "text": "Problemas del cuadernillo en diseño y aplicabilidad.\nCriterios de inclusión: El fragmento debe incluir referencias a nivel cognitivo, falta de contextualización, o falta de instrumentos.\nCriterios de exclusión: El código NO se aplica a uso del cuadernillo sin crítica.",
+      "order": 1
+    },
+    {
+      "code_id": 40,
+      "type": "example",
+      "text": "“Está muy pensado para estudiantes mayores”.",
+      "order": 1
+    },
+    {
+      "code_id": 41,
+      "type": "analytic_note",
+      "text": "Surge del análisis de FG1. Arreglado en V1.2.",
+      "order": 1
+    },
+    {
+      "code_id": 41,
+      "type": "border_rule",
+      "text": "Si es práctica en aula → Uso de materiales. Diferenciar de Sugerencias de mejora (que es propositivo). Este código es evaluativo/diagnóstico.",
+      "order": 1
+    },
+    {
+      "code_id": 41,
+      "type": "definition",
+      "text": "Juicios sobre el ajuste del diseño, lenguaje y nivel de dificultad del cuadernillo a las capacidades lectoras y contexto cultural de los estudiantes.\nCriterios de inclusión: Críticas al vocabulario (\"muy elevado\"), al tipo de preguntas (\"muy abstractas\"), o validación de su utilidad local.\nCriterios de exclusión: Comentarios sobre si llegó o no llegó (stock) -> Recursos y materialidades.",
+      "order": 1
+    },
+    {
+      "code_id": 41,
+      "type": "example",
+      "text": "“El quinto necesita que el cuadernillo se baje mucho.” , \"Las preguntas eran muy largas para el nivel de lectura que tienen mis niños.\"",
+      "order": 1
+    },
+    {
+      "code_id": 42,
+      "type": "analytic_note",
+      "text": "Este código sirve como insumo para el rediseño del material.",
+      "order": 1
+    },
+    {
+      "code_id": 42,
+      "type": "border_rule",
+      "text": "Debe haber una sugerencia concreta. Si el comentario es una crítica sobre las limitaciones de diseño y aplicabilidad del cuadernillo (como nivel cognitivo o falta de contextualización) pero no incluye una propuesta de mejora, debe codificarse en Limitaciones del cuadernillo.",
+      "order": 1
+    },
+    {
+      "code_id": 42,
+      "type": "definition",
+      "text": "Propuestas para mejorar la pertinencia y el uso del cuadernillo.\nCriterios de inclusión: El fragmento debe incluir la incorporación de instrumentos evaluativos, contextualización local, o interdisciplinariedad.\nCriterios de exclusión: El código NO se aplica a críticas sin propuesta.",
+      "order": 1
+    },
+    {
+      "code_id": 42,
+      "type": "example",
+      "text": "“Sería bueno añadir evaluaciones breves”.",
+      "order": 1
+    }
+  ]
+}
